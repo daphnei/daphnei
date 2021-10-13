@@ -22,7 +22,7 @@ title: Daphne Ippolito
 email: daphnei@seas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is Daphne Ippolito's personal website.
-baseurl: "/website" # the subpath of your site, e.g. /blog
+# baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://daphnei.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: daphnei.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 twitter_username: jekyllrb
