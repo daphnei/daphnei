@@ -18,7 +18,7 @@ We have so far shown that deduplicating the training set can signifiantly reduce
 We are continuing to study the properties of LM memorization, including membership inference attacks, the impact of decoding staretgy and prompt choice on whether memorized content surfaces, and training strategies to control the amount of memorization. 
 
 ## Building Tools for Creative Writing
-[paper on Wordcraft](https://arxiv.org/abs/2107.07430) | [paper on style transfer](https://arxiv.org/abs/2109.03910)
+[paper on Wordcraft](https://arxiv.org/abs/2107.07430) | [paper on style transfer](https://arxiv.org/abs/2109.03910)  
 Can natural language generation systems be used to build tools for creative writing? Controllable rewriting, text elaboration and expansion,
 and plot ideation are all tasks that NLG might be able to assist with. We are especially interested in investigating how creative writers interact
 with and perceive such tools.

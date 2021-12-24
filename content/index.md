@@ -6,6 +6,7 @@ Slug: about-me
 Authors: Daphne Ippolito
 Summary: About me
 Image: https://www.seas.upenn.edu/~daphnei/images/me.jpg
+Caption: I look something like this.
 
 I am a final-year PhD student at University of Pennsylvania and a [research scientist](https://research.google/people/DaphneIppolito/) at Google.
 I am interested in the properties of generative language models for text and the challenges of automatically generating narratives that are simultaneously coherent and interesting.
