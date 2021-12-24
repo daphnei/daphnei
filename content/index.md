@@ -14,5 +14,15 @@ I also look at ways to allow human writers to use generative text models as crea
 My PhD is co-advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/) at UPenn and Principal Scientist [Douglas Eck](https://research.google/people/author39086/) at Google Brain.
 In my spare time, I like to [garden](https://photos.app.goo.gl/yfgLmS4jgf3VSGH98), and I play flute in UPenn's [Baroque music ensembles](https://music.sas.upenn.edu/ensembles/baroque-and-recorder-ensembles).
 
+## I am on the academic job market!
+
+I am currently looking for assistant professor positions.
+
+* See my [research statement](https://www.seas.upenn.edu/~daphnei/Ippolito_D_research_statement_2021.pdf).
+* See my [teaching statement](https://www.seas.upenn.edu/~daphnei/Ippolito_D_teaching_statement_2021.pdf).
+* See my [DEI statement](https://www.seas.upenn.edu/~daphnei/Ippolito_D_edi_statement_2021.pdf).
+* See my [CV](https://www.seas.upenn.edu/~daphnei/cv.pdf).
+
 ## Contact Information
+
 I can be reached at `daphnei [at] seas.upenn.edu`.
