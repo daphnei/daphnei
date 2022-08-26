@@ -1,7 +1,7 @@
 <footer class="post-info">
 	{% if article.image %}
-	<img src="https://www.seas.upenn.edu/~daphnei/images/me.jpg" alt="I look something like this." width=200 class="rounded-corners" />
-        <p>I look something like this.</p>
+	<img src="{{ article.image }}" alt="{{ article.caption }}" width=200 class="rounded-corners" />
+        <p>{{ article.caption }}</p>
 	{% endif %}
 	<!--
         <abbr class="published" title="{{ article.date.isoformat() }}">
